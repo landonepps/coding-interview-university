@@ -1,10 +1,10 @@
 ### Arrays and Strings
 
- - [] 1.1 - Is Unique (p.192)
+ - [ ] 1.1 - Is Unique (p.192)
     - Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
     - Hints: #44, #117, #132
 
-  - [] 1.8 - Zero Matrix (p.204)
+  - [ ] 1.8 - Zero Matrix (p.204)
     - Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.
     - Hints: #17, #74, #702
 
