@@ -1,3 +1,6 @@
 [submodule "EPIJudge"]
 	path = EPIJudge
 	url = https://github.com/adnanaziz/EPIJudge.git
+[submodule "CtCI-Solutions"]
+	path = CtCI-Solutions
+	url = https://github.com/careercup/CtCI-6th-Edition
